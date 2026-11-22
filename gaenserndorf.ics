@@ -1,0 +1,862 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gaenserndorf-handball//nuLiga export//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Handball Gänserndorf
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+UID:62975a378eaa7492e64a@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20260913T080000Z
+DTEND:20260913T093000Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – Perchtoldsdorf Devils
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212090\nErgebnis: 14:15\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:bff238854ef2a0afe1e3@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20260913T140000Z
+DTEND:20260913T160000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – HST Handball 2
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114038\nErgebnis: 35:33\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:97927de26a85b4c15729@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20260919T090000Z
+DTEND:20260919T103000Z
+SUMMARY:[U10M] Perchtoldsdorf Devils – UHC Raiffeisenbank Gänserndorf
+LOCATION:Siegfried Ludwig Halle\, Siegfried Ludwig Platz 4\, 2380 Perchtold
+ sdorf
+DESCRIPTION:NÖ U10M\nSaison: 2026/27\nSpiel-Nr.: 110212\nErgebnis: 9:38\nQ
+ uelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/
+ clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:46c457981c96d6453dfb@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:[U11M] Perchtoldsdorf Devils – UHC Raiffeisenbank Gänserndorf
+LOCATION:Siegfried Ludwig Halle\, Siegfried Ludwig Platz 4\, 2380 Perchtold
+ sdorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111043\nErgebnis: 26:26\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:43da5904408602dea705@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20260919T120000Z
+DTEND:20260919T133000Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – Union Korneuburg Damen
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212006\nErgebnis: 24:25\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:501aaa7d9e99e5254222@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20260927T142500Z
+DTEND:20260927T155500Z
+SUMMARY:[U12W] UNION St. Pölten – UHC Raiffeisenbank Gänserndorf
+LOCATION:Prandtauerhalle\, Theodor Körner-Strasse\, 3100 St.Pölten
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212012\nErgebnis: 25:26\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:1db86af88a61fc79e66f@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261003T103000Z
+DTEND:20261003T123000Z
+SUMMARY:[U14M] HST Handball 2 – UHC Raiffeisenbank Gänserndorf
+LOCATION:Josef Welser Sporthalle Tulln\, Liese Prokop Platz 1\, 3430 Tulln
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114017\nErgebnis: 29:34\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:507700d48a2f1651b9d2@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261010T081000Z
+DTEND:20261010T094000Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – Hypo NÖ 3 (a.K.)
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212017\nErgebnis: 22:26\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:17b7b1b060b19f204d8d@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261010T093500Z
+DTEND:20261010T110500Z
+SUMMARY:[U10M] UHC Raiffeisenbank Gänserndorf – roomz JAGS BAC Vöslau
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U10M\nSaison: 2026/27\nSpiel-Nr.: 110203\nErgebnis: 31:15\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:2b6ecf01945b79127a73@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261010T121000Z
+DTEND:20261010T134000Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – roomz JAGS Vöslau
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111110\nErgebnis: 21:15\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:35cf17cfbc522ebf8df1@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261017T120000Z
+DTEND:20261017T133000Z
+SUMMARY:[U11M] Union Tigers Korneuburg – UHC Raiffeisenbank Gänserndorf
+LOCATION:Franz Guggenberger Sporthalle\, Laaer Strasse 38\, 2100 Korneuburg
+ \, Mobil: +43 699 16451488
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111022\nErgebnis: 28:11\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:9889ac06d2f2d67d51f0@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261018T073000Z
+DTEND:20261018T103000Z
+SUMMARY:[U9W] Turnier in Union Korneuburg Damen
+LOCATION:Franz Guggenberger Sporthalle\, Laaer Strasse 38\, 2100 Korneuburg
+ \, Mobil: +43 699 16451488
+DESCRIPTION:NÖ U9W Turnier\nQuelle: https://oehb-handball.liga.nu/cgi-bin/
+ WebObjects/nuLigaHBAT.woa/wa/clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:0af2e1264974cf42517a@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261018T083000Z
+DTEND:20261018T103000Z
+SUMMARY:[U14M] HB WW U14 – UHC Raiffeisenbank Gänserndorf
+LOCATION:Gymnasium Purkersdorf\, Herrengasse 4\, 3002 Purkersdorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114036\nErgebnis: 26:23\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:393b8a14c18df0f26c30@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261018T093000Z
+DTEND:20261018T110000Z
+SUMMARY:[U12W] GKL Krems - Langenlois – UHC Raiffeisenbank Gänserndorf
+LOCATION:Sporthalle Langenlois\, Loiskandlzeile 17\, 3550 Langenlois
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212084\nErgebnis: 16:31\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:3128a88e19e723384f0c@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261107T114500Z
+DTEND:20261107T131500Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – Sportunion DIE FALKEN St
+ . Pölten
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111087\nErgebnis: 22:15\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:55dc71e5fab0f63fdce3@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – Sportunion DIE FALKEN St
+ . Pölten
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114004\nErgebnis: 22:29\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf123cff3ad6d12a48e@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+SUMMARY:[U16M] UHC Raiffeisenbank Gänserndorf – Sportunion DIE FALKEN St
+ . Pölten
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U16M\nSaison: 2026/27\nSpiel-Nr.: 116009\nErgebnis: 35:29\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:e244c83fdfc9de677412@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261108T131500Z
+DTEND:20261108T144500Z
+SUMMARY:[U10M] roomz JAGS BAC Vöslau – UHC Raiffeisenbank Gänserndorf
+LOCATION:Thermenhalle Bad Vöslau\, Geymüllerstrasse 8\, 2540 Bad Vöslau
+DESCRIPTION:NÖ U10M\nSaison: 2026/27\nSpiel-Nr.: 110209\nErgebnis: 16:22\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf889805b10269b9c4d@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261114T134500Z
+DTEND:20261114T151500Z
+SUMMARY:[U11M] SG Horn / Eggenburg – UHC Raiffeisenbank Gänserndorf
+LOCATION:Sporthalle Horn\, Kirschenallee 3\, 3580 Horn
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111072\nErgebnis: 23:21\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:a98f7625db01a724747f@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:[U16M] SG EVAC Eggenburg Horn – UHC Raiffeisenbank Gänserndorf
+LOCATION:Sporthalle Horn\, Kirschenallee 3\, 3580 Horn
+DESCRIPTION:NÖ U16M\nSaison: 2026/27\nSpiel-Nr.: 116008\nErgebnis: 34:23\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:539b41342a55f2dfad87@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261115T101500Z
+DTEND:20261115T114500Z
+SUMMARY:[U12W] Hypo NÖ 2 – UHC Raiffeisenbank Gänserndorf
+LOCATION:BSFZ Südstadt\, Liese Prokop-Platz 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212073\nErgebnis: 21:25\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5bbea5e66db86ddd42@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261121T110000Z
+DTEND:20261121T123000Z
+SUMMARY:[U10M] UHC Raiffeisenbank Gänserndorf – Perchtoldsdorf Devils
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U10M\nSaison: 2026/27\nSpiel-Nr.: 110206\nErgebnis: 33:14\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:c1faca2f8f37f2dc6313@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261121T121500Z
+DTEND:20261121T134500Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – UHC Stockerau
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111067\nErgebnis: 17:20\n
+ Quelle: https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa
+ /clubMeetings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd423f457833df71d19@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:[U9W] Turnier in UHC Raiffeisenbank Gänserndorf
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U9W Turnier\nUhrzeit noch nicht bekannt\nQuelle: https://oe
+ hb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?club
+ =67
+END:VEVENT
+BEGIN:VEVENT
+UID:7115016e3db56af50a6b@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261128T091500Z
+DTEND:20261128T104500Z
+SUMMARY:[U10M] UHC Raiffeisenbank Gänserndorf – Handball Mödling
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U10M\nSaison: 2026/27\nSpiel-Nr.: 110207\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:c232228018a34034a7e0@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261128T113000Z
+DTEND:20261128T133000Z
+SUMMARY:[U14M] UHC Hollabrunn – UHC Raiffeisenbank Gänserndorf
+LOCATION:Weinviertelarena\, Aumühlgasse 8\, 2020 Hollabrunn
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114003\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8d410ad4c5920a1f21@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261128T114500Z
+DTEND:20261128T131500Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – GKL Krems - Langenlois
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212039\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:1209156286e6f66811e5@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261205T113000Z
+DTEND:20261205T130000Z
+SUMMARY:[U12W] Roomz JAGS WVB – UHC Raiffeisenbank Gänserndorf
+LOCATION:Anemonenseehalle\, Primelgasse 12\, 2700 Wiener Neustadt
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212023\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:86f54d25a5fe64806178@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261208T084500Z
+DTEND:20261208T101500Z
+SUMMARY:[U12W] Union Korneuburg Damen – UHC Raiffeisenbank Gänserndorf
+LOCATION:Franz Guggenberger Sporthalle\, Laaer Strasse 38\, 2100 Korneuburg
+ \, Mobil: +43 699 16451488
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212051\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:b3dd422cf05bffb9c15c@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261212T110000Z
+DTEND:20261212T123000Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – SG Stockerau-Hollabrunn
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212079\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:588c1469a8caa0e996ff@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261212T123000Z
+DTEND:20261212T140000Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – Union Handball Club Tull
+ n
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111049\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ec38d0774917926c06@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[U9W] Turnier in roomz JAGS WN
+LOCATION:Anemonenseehalle\, Primelgasse 12\, 2700 Wiener Neustadt
+DESCRIPTION:NÖ U9W Turnier\nUhrzeit noch nicht bekannt\nQuelle: https://oe
+ hb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?club
+ =67
+END:VEVENT
+BEGIN:VEVENT
+UID:db737d741a8b9d916bfd@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261219T083000Z
+DTEND:20261219T100000Z
+SUMMARY:[U11M] UHC Hollabrunn – UHC Raiffeisenbank Gänserndorf
+LOCATION:Weinviertelarena\, Aumühlgasse 8\, 2020 Hollabrunn
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111093\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:5beaa7795670beaf9e2c@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261220T103000Z
+DTEND:20261220T120000Z
+SUMMARY:[U10M] Handball Mödling – UHC Raiffeisenbank Gänserndorf
+LOCATION:BSFZ Südstadt 2 / Liese Prokop Privatschule\, Liese Prokop Platz 
+ 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U10M\nSaison: 2026/27\nSpiel-Nr.: 110201\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c674022dd3b829b1d9@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261220T120000Z
+DTEND:20261220T133000Z
+SUMMARY:[U12W] SG Stockerau-Hollabrunn – UHC Raiffeisenbank Gänserndorf
+LOCATION:Sporthalle Alte Au\, Alte Au 1\, 2000 Stockerau\, encodeEmail('at'
+ \, 'sportzentrum'\, 'stockerau.gv'\, '')
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212034\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:38cdbd0f362b56440c1a@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20261220T120000Z
+DTEND:20261220T140000Z
+SUMMARY:[U14M] Handball Mödling – UHC Raiffeisenbank Gänserndorf
+LOCATION:BSFZ Südstadt 2 / Liese Prokop Privatschule\, Liese Prokop Platz 
+ 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114010\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:eb070ad5d2e5eb4f432f@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270117T091500Z
+DTEND:20270117T104500Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – Hypo NÖ 1
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212050\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:a11343edd5a92d825858@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270117T104500Z
+DTEND:20270117T121500Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – Union Tigers Korneuburg
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111077\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:a991a13862ef2820d5e6@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270117T133000Z
+DTEND:20270117T153000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – Handball Mödling
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114031\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:628a3a87eaee4de3bdac@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270124T100000Z
+DTEND:20270124T113000Z
+SUMMARY:[U11M] Handball Mödling – UHC Raiffeisenbank Gänserndorf
+LOCATION:BSFZ Südstadt 2 / Liese Prokop Privatschule\, Liese Prokop Platz 
+ 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111005\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:1405f346f1fcb1670a13@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270124T133000Z
+DTEND:20270124T153000Z
+SUMMARY:[U14M] SG Handball Wölfe/Post/WAT20 – UHC Raiffeisenbank Gänser
+ ndorf
+LOCATION:SH Fünfhaus - Fritz-Grassinger-Halle\, 1150 Wien
+DESCRIPTION:ÖHB Elite Cup MU14\nSaison: ÖMS 2027\nSpiel-Nr.: 11\nQuelle: 
+ https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMee
+ tings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:746952b75678418505f7@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270213T100000Z
+DTEND:20270213T113000Z
+SUMMARY:[U11M] roomz JAGS Vöslau – UHC Raiffeisenbank Gänserndorf
+LOCATION:Thermenhalle Bad Vöslau\, Geymüllerstrasse 8\, 2540 Bad Vöslau
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111055\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:d298992c42c77b94cc42@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270220T110000Z
+DTEND:20270220T123000Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – Perchtoldsdorf Devils
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111098\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:24b4c66d96c4076329c3@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270220T151500Z
+DTEND:20270220T171500Z
+SUMMARY:[U14M] SG REMO Eggenburg / Horn – UHC Raiffeisenbank Gänserndorf
+LOCATION:Sporthalle Horn\, Kirschenallee 3\, 3580 Horn
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114041\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:6768555e83b2d16fd00a@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270227T090000Z
+DTEND:20270227T103000Z
+SUMMARY:[U11M] Sportunion DIE FALKEN St. Pölten – UHC Raiffeisenbank Gä
+ nserndorf
+LOCATION:Prandtauerhalle\, Theodor Körner-Strasse\, 3100 St.Pölten
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111032\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:30bebf88ef114e23904f@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270227T120000Z
+DTEND:20270227T133000Z
+SUMMARY:[U12W] Hypo NÖ 1 – UHC Raiffeisenbank Gänserndorf
+LOCATION:BSFZ Südstadt\, Liese Prokop-Platz 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212005\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:0baefbe06e10602a7cbe@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:[U9W] Turnier in UHC Raiffeisen Stockerau
+LOCATION:Sporthalle Alte Au\, Alte Au 1\, 2000 Stockerau\, encodeEmail('at'
+ \, 'sportzentrum'\, 'stockerau.gv'\, '')
+DESCRIPTION:NÖ U9W Turnier\nUhrzeit noch nicht bekannt\nQuelle: https://oe
+ hb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?club
+ =67
+END:VEVENT
+BEGIN:VEVENT
+UID:807e6af921c2a78ba585@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270306T094500Z
+DTEND:20270306T111500Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – SG Horn / Eggenburg
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111017\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:0613a10b9654dc5b6024@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270306T121500Z
+DTEND:20270306T134500Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – UNION St. Pölten
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212057\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:5bccde34bb8ca1d656c5@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270307T123000Z
+DTEND:20270307T143000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – HSG XeNTiS Lipizzanerhei
+ mat
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:ÖHB Elite Cup MU14\nSaison: ÖMS 2027\nSpiel-Nr.: 15\nQuelle: 
+ https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMee
+ tings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:199685a0ad301a3b76ba@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:[U16M] UHC Raiffeisenbank Gänserndorf – Handball Sportunion Leob
+ en
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:ÖHB Elite Cup MU16\nSaison: ÖMS 2027\nSpiel-Nr.: 18\nQuelle: 
+ https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMee
+ tings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:39951d1fbe8bad1851d2@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270313T120000Z
+DTEND:20270313T133000Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – Brixton Fire Krems Lange
+ nlois
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111006\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:37ed60f43c2115b6303e@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270313T131500Z
+DTEND:20270313T151500Z
+SUMMARY:[U16M] UHC Raiffeisenbank Gänserndorf – Brixton Fire Krems Lange
+ nlois
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U16M\nSaison: 2026/27\nSpiel-Nr.: 116011\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:03a7c8e524f135ad2e42@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270314T133000Z
+DTEND:20270314T150000Z
+SUMMARY:[U12W] Hypo NÖ 3 (a.K.) – UHC Raiffeisenbank Gänserndorf
+LOCATION:BSFZ Südstadt\, Liese Prokop-Platz 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212062\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:b53414e8071da1d2ae8e@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270403T094500Z
+DTEND:20270403T111500Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – Hypo NÖ 2
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212028\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:63fac50f7600fe8be918@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270403T143000Z
+DTEND:20270403T163000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – SG REMO Eggenburg / Horn
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114020\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:9412ea76d10552f92069@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270404T123000Z
+DTEND:20270404T140000Z
+SUMMARY:[U11M] UHC Stockerau – UHC Raiffeisenbank Gänserndorf
+LOCATION:Sporthalle Alte Au\, Alte Au 1\, 2000 Stockerau\, encodeEmail('at'
+ \, 'sportzentrum'\, 'stockerau.gv'\, '')
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111012\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:2c11b79558fa5f96168d@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270410T080000Z
+DTEND:20270410T093000Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – UHC Hollabrunn
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111038\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7c4c4dd5fa71ea36a1@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270410T114000Z
+DTEND:20270410T134000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – UHC Hollabrunn
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114024\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:3a167e5868fac693b4d9@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270411T123000Z
+DTEND:20270411T143000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – SG Handball Wölfe/Post/
+ WAT20
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:ÖHB Elite Cup MU14\nSaison: ÖMS 2027\nSpiel-Nr.: 17\nQuelle: 
+ https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMee
+ tings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:39d7e1a281ee101d3774@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270411T130000Z
+DTEND:20270411T143000Z
+SUMMARY:[U12W] Perchtoldsdorf Devils – UHC Raiffeisenbank Gänserndorf
+LOCATION:Siegfried Ludwig Halle\, Siegfried Ludwig Platz 4\, 2380 Perchtold
+ sdorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212045\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:d627fcbb4cfc3acd020e@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270411T140000Z
+DTEND:20270411T160000Z
+SUMMARY:[U16M] UHC Raiffeisenbank Gänserndorf – SG Handball Wölfe Wien/
+ WAT20
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:ÖHB Elite Cup MU16\nSaison: ÖMS 2027\nSpiel-Nr.: 20\nQuelle: 
+ https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMee
+ tings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:3662f2784e7597325acf@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270417T120000Z
+DTEND:20270417T140000Z
+SUMMARY:[U16M] Brixton Fire Krems Langenlois – UHC Raiffeisenbank Gänser
+ ndorf
+LOCATION:Sporthalle Langenlois\, Loiskandlzeile 17\, 3550 Langenlois
+DESCRIPTION:NÖ U16M\nSaison: 2026/27\nSpiel-Nr.: 116005\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:a784666fa389606aac69@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270418T101500Z
+DTEND:20270418T114500Z
+SUMMARY:[U11M] Union Handball Club Tulln – UHC Raiffeisenbank Gänserndor
+ f
+LOCATION:Josef Welser Sporthalle Tulln\, Liese Prokop Platz 1\, 3430 Tulln
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111104\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:4643cc67fdb05127d623@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270424T093000Z
+DTEND:20270424T110000Z
+SUMMARY:[U12W] UHC Raiffeisenbank Gänserndorf – Roomz JAGS WVB
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U12W\nSaison: 2026/27\nSpiel-Nr.: 212068\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2d73a459c2807b7181@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270424T123000Z
+DTEND:20270424T143000Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – UHC Salzburg
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:ÖHB Elite Cup MU14\nSaison: ÖMS 2027\nSpiel-Nr.: 8\nQuelle: h
+ ttps://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeet
+ ings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac9a029964c1c39eaf8@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:[U9W] Turnier in Hypo NÖ
+LOCATION:BSFZ Südstadt\, Liese Prokop-Platz 1\, 2344 Maria Enzersdorf
+DESCRIPTION:NÖ U9W Turnier\nUhrzeit noch nicht bekannt\nQuelle: https://oe
+ hb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?club
+ =67
+END:VEVENT
+BEGIN:VEVENT
+UID:d2bf47923b57d08396a5@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270425T111500Z
+DTEND:20270425T124500Z
+SUMMARY:[U11M] UHC Raiffeisenbank Gänserndorf – Handball Mödling
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111060\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:1554061eaf06829f1e4e@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270425T140000Z
+DTEND:20270425T160000Z
+SUMMARY:[U16M] UHC Raiffeisenbank Gänserndorf – SG EVAC Eggenburg Horn
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U16M\nSaison: 2026/27\nSpiel-Nr.: 116002\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6094f7fb6ed4039c28@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270425T140000Z
+DTEND:20270425T160000Z
+SUMMARY:[U16M] UHC Raiffeisenbank Gänserndorf – UHC EVAC Eggenburg
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:ÖHB Elite Cup MU16\nSaison: ÖMS 2027\nSpiel-Nr.: 15\nQuelle: 
+ https://oehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMee
+ tings?club=67
+END:VEVENT
+BEGIN:VEVENT
+UID:3176f365e3ed9b5f0340@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:[U9W] Turnier in Perchtoldsdorf Devils
+LOCATION:Siegfried Ludwig Halle\, Siegfried Ludwig Platz 4\, 2380 Perchtold
+ sdorf
+DESCRIPTION:NÖ U9W Turnier\nUhrzeit noch nicht bekannt\nQuelle: https://oe
+ hb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?club
+ =67
+END:VEVENT
+BEGIN:VEVENT
+UID:09c797c99aec8c854496@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270502T083000Z
+DTEND:20270502T100000Z
+SUMMARY:[U11M] Brixton Fire Krems Langenlois – UHC Raiffeisenbank Gänser
+ ndorf
+LOCATION:Sporthalle Krems\, Strandbadstraße 3\, 3500 Krems
+DESCRIPTION:NÖ U11M\nSaison: 2026/27\nSpiel-Nr.: 111061\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:d679b4ba52ea51850ff1@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270502T094500Z
+DTEND:20270502T114500Z
+SUMMARY:[U14M] UHC Raiffeisenbank Gänserndorf – HB WW U14
+LOCATION:Stadthalle Gänserndorf\, Kudlichgasse 28\, 2230 Gänserndorf
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114015\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:e616e6696094e0610668@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270515T113000Z
+DTEND:20270515T133000Z
+SUMMARY:[U14M] Sportunion DIE FALKEN St. Pölten – UHC Raiffeisenbank Gä
+ nserndorf
+LOCATION:Prandtauerhalle\, Theodor Körner-Strasse\, 3100 St.Pölten
+DESCRIPTION:NÖ U14M\nSaison: 2026/27\nSpiel-Nr.: 114025\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+BEGIN:VEVENT
+UID:5203111dea56a22d113a@gaenserndorf-handball
+DTSTAMP:20261122T084108Z
+DTSTART:20270515T130000Z
+DTEND:20270515T150000Z
+SUMMARY:[U16M] Sportunion DIE FALKEN St. Pölten – UHC Raiffeisenbank Gä
+ nserndorf
+LOCATION:Prandtauerhalle\, Theodor Körner-Strasse\, 3100 St.Pölten
+DESCRIPTION:NÖ U16M\nSaison: 2026/27\nSpiel-Nr.: 116003\nQuelle: https://o
+ ehb-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBAT.woa/wa/clubMeetings?clu
+ b=67
+END:VEVENT
+END:VCALENDAR
