@@ -4,8 +4,8 @@ UHC Gänserndorf youth teams.
 
 Data source: the ÖHB nuLiga portal (oehb-handball.liga.nu).
 
-- League matches come from the club match list ("clubMeetings") of every
-  season that the portal offers (for example "2026/27" and "ÖMS 2027").
+- League and ÖHB Elite Cup matches come from the club match list
+  ("clubMeetings") of the current season (1 July to 30 June).
 - U9 teams play tournaments. Their dates come from the group page
   "NÖ U9x alle Termine und Turnierleiter". A tournament belongs to the team
   when its group letter ("Pflichtgruppe B") matches the group of the team.
@@ -119,45 +119,52 @@ def venue(court_cell):
 # --------------------------------------------------------------------------
 
 
-def season_ranges(page):
-    """Return the season options ('13-684' -> '2026/27') of the search form."""
-    select = re.search(r'(?s)<select name="searchTimeRange">.*?</select>', page)
-    return re.findall(r'<option[^>]*value="(\d+-\d+)"[^>]*>([^<]*)', select.group(0))
+def season_span(today=None):
+    """Return (first day, last day) of the season that contains today.
+
+    A season runs from 1 July to 30 June. The season filters of the portal
+    can hide matches of one competition (the ÖMS filter shows only the
+    matches of its calendar year), so the search uses this date range.
+    """
+    today = today or dt.date.today()
+    start = today.year if today.month >= 7 else today.year - 1
+    return dt.date(start, 7, 1), dt.date(start + 1, 6, 30)
 
 
 def club_matches():
-    first = fetch(f"{WA}/clubMeetings?club={CLUB_ID}")
-    for range_id, season in season_ranges(first):
-        page = fetch(
-            f"{WA}/clubMeetings",
-            {
-                "club": CLUB_ID,
-                "searchType": "0",
-                "searchTimeRange": range_id,
-                "selectedTeamId": "WONoSelectionString",
-                "searchMeetings": "Suchen",
-            },
-        )
-        date = None
-        for cells in table_rows(page):
-            if len(cells) < 9:
-                continue
-            day = text(cells[1])
-            if re.fullmatch(r"\d\d\.\d\d\.\d{4}", day):
-                date = day
-            if not date:
-                continue
-            yield {
-                "season": season,
-                "date": date,
-                "time": text(cells[2]),
-                "court": cells[3],
-                "number": text(cells[4]),
-                "league": text(cells[5]),
-                "home": text(cells[6]),
-                "guest": text(cells[7]),
-                "result": text(cells[8]),
-            }
+    first, last = season_span()
+    season = f"{first.year}/{str(last.year)[2:]}"
+    page = fetch(
+        f"{WA}/clubMeetings",
+        {
+            "club": CLUB_ID,
+            "searchType": "1",
+            "searchTimeRangeFrom": f"{first:%d.%m.%Y}",
+            "searchTimeRangeTo": f"{last:%d.%m.%Y}",
+            "selectedTeamId": "WONoSelectionString",
+            "searchMeetings": "Suchen",
+        },
+    )
+    date = None
+    for cells in table_rows(page):
+        if len(cells) < 9:
+            continue
+        day = text(cells[1])
+        if re.fullmatch(r"\d\d\.\d\d\.\d{4}", day):
+            date = day
+        if not date:
+            continue
+        yield {
+            "season": season,
+            "date": date,
+            "time": text(cells[2]),
+            "court": cells[3],
+            "number": text(cells[4]),
+            "league": text(cells[5]),
+            "home": text(cells[6]),
+            "guest": text(cells[7]),
+            "result": text(cells[8]),
+        }
 
 
 # --------------------------------------------------------------------------
